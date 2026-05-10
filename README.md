@@ -1,11 +1,5 @@
 ## AtCoder Time Tracker
 
+競プロの精進における「時間の使い道」を可視・記録する Tampermonkeyスクリプト。 
 
-競技プログラミングの精進における「時間の使い道」を可視化・記録する Tampermonkey スクリプト。 (予定)
-
-### ファイル
-- *.user: JSファイル
-- *.spec.md: プロンプト
-- assets/: その他
-
-![screenshot](assets/screenshot%20of%20the%20preview.png)
+設計詳細は[こちら](./doc/spec.md)。
