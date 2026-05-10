@@ -6,3 +6,6 @@
 ### ファイル
 - *.user: JSファイル
 - *.spec.md: プロンプト
+- assets/: その他
+
+![screenshot](assets/screenshot%20of%20the%20preview.png)
